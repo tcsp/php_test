@@ -1,0 +1,23 @@
+{
+  "config": {
+    "secure-http": false
+  },
+  "repositories": [
+    {
+      "packagist": false
+    },
+    {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    },
+    {
+      "type": "vcs",
+      "url": "http://git.husor.com/beibei-dev/shared-member-api.git"
+    }
+  ],
+  "require": {
+    "monolog/monolog": "1.*",
+    "prettus/l5-repository": "2.*",
+    "beibei-platform/shared-member-api": "dev-master"
+  }
+}
