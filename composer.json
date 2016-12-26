@@ -15,6 +15,7 @@
       "url": "http://git.husor.com/beibei-dev/shared-member-api.git"
     }
   ],
+  "name": "tcsp-platform/php_test",
   "require": {
     "monolog/monolog": "1.*",
     "prettus/l5-repository": "2.*",
