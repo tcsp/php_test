@@ -19,6 +19,6 @@
   "require": {
     "monolog/monolog": "1.*",
     "prettus/l5-repository": "2.*",
-    "beibei-platform/shared-member-api": "dev-master"
+    "beibei-platform/shared-member-api": "dev-master@dev"
   }
 }
