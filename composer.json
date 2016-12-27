@@ -9,15 +9,10 @@
     {
       "type": "composer",
       "url": "https://packagist.phpcomposer.com"
-    },
-    {
-      "type": "vcs",
-      "url": "http://git.husor.com/beibei-dev/shared-member-api.git"
     }
   ],
   "name": "tcsp-platform/php_test",
   "require": {
-    "monolog/monolog": "1.*",
-    "beibei-platform/shared-member-api": "dev-master@dev"
+    "monolog/monolog": "1.*"
   }
 }
